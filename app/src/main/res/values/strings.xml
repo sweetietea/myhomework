@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="type_password_label">Enter Password</string>
+
+</resources>
